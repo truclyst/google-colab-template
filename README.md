@@ -1,3 +1,3 @@
 # google-colab-template
 
-Please check `template.ipynb`.
+Please check [`template.ipynb`](template.ipynb).
