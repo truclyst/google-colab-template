@@ -11,3 +11,10 @@ Please check [`template.ipynb`](template.ipynb).
 - cryodrgn
 - flye
 - prokka
+- bioconductor
+- mafft
+- stringtie
+- dada2
+- fasttree
+- spades
+- star
