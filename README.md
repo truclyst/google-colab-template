@@ -1,20 +1,3 @@
-# Colab notebooks from Advanced Bioinformatics1
-
-Please check [`template.ipynb`](template.ipynb).
-
-## Current branches
-- deseq2
-- kraken2
-- gatk
-- trinity
-- metaphlan2
-- cryodrgn
-- flye
-- prokka
-- bioconductor
-- mafft
-- stringtie
-- dada2
-- fasttree
-- spades
-- star
+I would like to submit the presentation of AlphaFold2 in the class: "Advanced Bioinformatics 1". 
+This presentation was based on the article: "Highly accurate protein structure prediction with AlphaFold" (J. Jumper et al, Nature, 2021)
+Thank you very much!
